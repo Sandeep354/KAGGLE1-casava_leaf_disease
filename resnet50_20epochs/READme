@@ -1,0 +1,5 @@
+ResNet50 with extra Dense layers
+
+ImageGenerator data-augmentation
+
+Run only for 20 epochs
